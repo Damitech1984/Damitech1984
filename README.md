@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Damitech1984/Damitech1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Oludamola Micheal Famoriyo
+AI and software engineer based in Osogbo, Nigeria, open to remote contract and full-time work. I build websites, installable apps and AI-powered tools, and I also work with data (Excel, SQL, Power BI).
+Projects
+Project
+What it is
+Link
+Light Academy
+Live website and student records for a private school
+https://lightacademysite.vercel.app
+Before You Pay
+Installable money-decisions app with five calculators and an AI assistant
+https://b4upay.vercel.app
+VoteTrust Election
+Secure multi-tenant e-voting platform (pre-launch)
+https://votetrust-election.vercel.app
+Source code for these projects is private. I am happy to share access or walk through it on request.
+Tools
+React, Next.js, JavaScript, TypeScript, Node.js, Express.js, Tailwind CSS, PostgreSQL, Vitest, ESLint, Git, GitHub, Vercel, Flutterwave, GitHub Copilot, Cline, ChatGPT.
+Contact
+Email: famoriyooludamola@gmail.com LinkedIn: https://www.linkedin.com/in/oludamola-famoriyo-ab951a416
